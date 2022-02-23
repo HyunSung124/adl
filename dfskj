@@ -1,0 +1,50 @@
+# a= ['a','b','c','d']
+# for i in a:
+#     print(i)
+# a = [5,4,2,1,3]
+# a.insert(0,'a')
+# a.remove(3)
+# print(a.pop())
+# print(a.count)
+# print(a)
+# t = (5,4,2,1,3)
+# t[2] = 8
+# d = {'apple': '사과','banana':'바나나', 3: '삼'}
+# print(d['apple'])
+# d['복숭아'] = 'peach'
+# d[3] = '사'
+# del d['apple']
+# print(d)
+# print(d.keys())
+# print(d.values())
+# print(d.items())
+# print('x' in d.keys())
+# print('apple' in d.keys())
+# print('사과' in d.values())
+# print(bool('python'), bool(''))
+# print(bool([1, 2, 3]), bool([]))
+# print(bool((1, 2)), bool(()))
+# print(bool({'1' : 1}), bool({}))
+# print(bool(3), bool(0))
+# print(bool(None))
+# a = int(input())
+# b = input()
+# answer= 0
+# for i in a:
+#     answer += int(i)
+# print(answer)
+# n = input()
+# a= n.split()
+# print(len(a))
+# a = int(input())
+# for i in range(a):
+#     total_score = 0
+#     answer = input()
+#     score= 0
+#     for i in range(len(answer)):
+#         if answer[j] == 'O':
+#             score += 1
+#             total_score += score
+#         else :
+#             score = 0
+#     print(total_score)
